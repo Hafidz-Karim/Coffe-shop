@@ -1,0 +1,48 @@
+{
+    "products": [
+      {
+        "id": 16,
+        "title": "Kopi Tubruk lampung Ala Italy",
+        "description": "Kopi  Original 100% asli Lampung yang hangat dan nikmat untuk menemani pagi hari anda",
+        "price": "8",
+        "img": "./assets/Gambar-coffie-1.jpg"
+      },
+      {
+        "id": 17,
+        "title": "Kopi Arabica Khas Asli Arab",
+        "description": "Kopi Berempah Asli dari arab yang memiliki banyak khasiat terutama bagi yang ngantukan",
+        "price": "10",
+        "img": "./assets/Gambar-coffie-2.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Kopi Turki Khas Asli Turki 100%",
+        "description": "Kopi Turki yang terkenal dengan campuran aneka bahan yang turun menurun diwariskan dari zaman dahulu",
+        "price": "12",
+        "img": "./assets/Gambar-coffie-3.jpg"
+      },
+      {
+        "id": 19,
+        "title": "Kopi Luwak Pahit Hitam jos",
+        "description": "Roti dengan varian Toping yang menggugah selera dan bikin anda ketagihan",
+        "price": "18",
+        "img": "./assets/Gambar-coffie-4.jpg"
+      },
+      
+      {
+        "id": 20,
+        "title": "Kopi Capucino yang khas dengan krimer",
+        "description": "Roti dengan varian Toping yang menggugah selera Dan Pasti Bikin Kecanduan pastinya",
+        "price": "7",
+        "img": "./assets/Gambar-coffie-5.jpg"
+      },
+      {
+        "id": 21,
+        "title": "Kopi pahit Hitam arang jogja",
+        "description": "Kopi arang hitam pahit jogja yang khas dengan arang hitam yang istimewa",
+        "price": "6",
+        "img": "./assets/Gambar-coffie-6.jpg"
+      }      
+    ]
+  }
+  

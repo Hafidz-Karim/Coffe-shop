@@ -1,0 +1,48 @@
+{
+    "products": [
+      {
+        "id": 22,
+        "title": "Roti Valetine Rasa Varian Red Velvet",
+        "description": "Roti dengan varian Toping yang menggugah selera",
+        "price": "17",
+        "img": "./assets/Gambar-cake-1.jpg"
+      },
+      {
+        "id": 23,
+        "title": "Cake Tar Ulang Tahun Red Velvet",
+        "description": "Roti dengan varian Toping yang menggugah selera",
+        "price": "100",
+        "img": "./assets/Gambar-cake-5.jpg"
+      },
+      {
+        "id": 24,
+        "title": "Cake Kering Rasa Red Velvet",
+        "description": "Roti dengan varian Toping yang menggugah selera",
+        "price": "25",
+        "img": "./assets/Gambar=cake-6.jpg"
+      },
+      {
+        "id": 25,
+        "title": "Kopi Luwak Pahit Hitam jos",
+        "description": "Roti dengan varian Toping yang menggugah selera dan bikin anda ketagihan",
+        "price": "18",
+        "img": "./assets/Gambar-coffie-4.jpg"
+      },
+  
+      {
+        "id": 26,
+        "title": "Kopi Capucino yang khas dengan krimer",
+        "description": "Roti dengan varian Toping yang menggugah selera Dan Pasti Bikin Kecanduan pastinya",
+        "price": "7",
+        "img": "./assets/Gambar-coffie-5.jpg"
+      },
+      {
+        "id": 27,
+        "title": "Kopi Hitam arang jogja pahit",
+        "description": "Kopi arang hitam pahit jogja yang khas dengan arang hitam yang istimewa",
+        "price": "6",
+        "img": "./assets/Gambar-coffie-6.jpg"
+      }
+    ]
+  }
+  

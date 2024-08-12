@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Roti Valetine Rasa Varian Red Velvet",
+      "description": "Roti dengan varian Toping yang menggugah selera",
+      "price": "17",
+      "img": "./assets/Gambar-cake-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Cake Tar Ulang Tahun Red Velvet",
+      "description": "Roti dengan varian Toping yang menggugah selera",
+      "price": "100",
+      "img": "./assets/Gambar-cake-5.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cake Kering Rasa Red Velvet",
+      "description": "Roti dengan varian Toping yang menggugah selera",
+      "price": "25",
+      "img": "./assets/Gambar=cake-6.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cake Tar Rasa Tiramisu Velvet",
+      "description": "Roti dengan varian Toping yang menggugah selera dan bikin anda ketagihan",
+      "price": "19",
+      "img": "./assets/Gambar-cake-6.jpg"
+    },
+    
+    {
+      "id": 5,
+      "title": "Cake Varian Rasa Black Velvet",
+      "description": "Roti dengan varian Toping yang menggugah selera Dan Pasti Bikin Kecanduan pastinya",
+      "price": "60",
+      "img": "./assets/Gambar-cake-3.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Cake Red Velvet Toping Buah-Buahan",
+      "description": "Roti dengan varian Toping Aneka Buah-buahan yang menggugah selera",
+      "price": "35",
+      "img": "./assets/Gambar-cake-4.jpg"
+    },
+    
+    {
+      "id": 7,
+      "title": "Cake Brown Velvet Toping Buah-Buahan",
+      "description": "Roti dengan varian Toping Aneka Buah-buahan yang menggugah selera",
+      "price": "25",
+      "img": "./assets/Gambar-cake-7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Cake Tar Velvet Toping Oreo",
+      "description": "Roti dengan varian Toping Aneka Product oreo yang menggugah selera",
+      "price": "20",
+      "img": "./assets/Gambar-cake-8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Cake Red Velvet Toping Buah-Buahan",
+      "description": "Roti dengan varian Toping Aneka Buah-buahan yang menggugah selera",
+      "price": "7",
+      "img": "./assets/Gambar-cake-9.jpg"
+    }
+    
+  ]
+}
